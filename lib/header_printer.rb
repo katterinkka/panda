@@ -6,7 +6,7 @@ class HeaderPrinter
 	  @text = text
 	end 
 
-  def print_header_a # Да вроде минус лучше смотрится :)
+  def print_header_a # я решила!
   	print_separator('*')
     print_text
     print_separator('*')
