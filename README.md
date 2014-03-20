@@ -1,5 +1,5 @@
 =============
-panda - SUPER
+panda - SUPER1
 =============
 
 ruby study project
