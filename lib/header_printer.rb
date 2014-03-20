@@ -7,7 +7,7 @@ class HeaderPrinter
 	end 
 
   def print_header_a # Да вроде минус лучше смотрится :)
-  	print_separator('-')
+  	print_separator('@')
     print_text
     print_separator('-')
   end
